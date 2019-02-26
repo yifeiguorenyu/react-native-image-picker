@@ -1,0 +1,10 @@
+[
+    {
+        "merged": "/Users/qinlue/native/RJ-WXAPP/node_modules/react-native-image-picker/android/build/intermediates/res/merged/release/xml/provider_paths.xml",
+        "source": "/Users/qinlue/native/RJ-WXAPP/node_modules/react-native-image-picker/android/src/main/res/xml/provider_paths.xml"
+    },
+    {
+        "merged": "/Users/qinlue/native/RJ-WXAPP/node_modules/react-native-image-picker/android/build/intermediates/res/merged/release/xml/preferences.xml",
+        "source": "/Users/qinlue/.gradle/caches/transforms-1/files-1.1/react-native-0.55.4.aar/d7277877bd6cd47f77e3da6e61ba084b/res/xml/preferences.xml"
+    }
+]
